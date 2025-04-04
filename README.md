@@ -50,10 +50,18 @@ gradio deploy
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/df1a9810-1592-4c5f-b2af-b3f73e61de77)
+![Screenshot 2025-04-04 121621](https://github.com/user-attachments/assets/a723333d-e754-4132-86b4-48f6f3eecda7)
+![Screenshot 2025-04-04 121728](https://github.com/user-attachments/assets/bdd3da29-49d3-4f62-a976-70f8bb23c8d9)
+![Screenshot 2025-04-04 121827](https://github.com/user-attachments/assets/c8209607-bfe2-4383-a2c6-1251ebe3f254)
 
 
 ## License
-This project is licensed under the MIT License.
+MIT License to uploaded soon!!
+
+✍️ Author
+Tanisha Jaiswal
+
+Happy coding!
 
 
  
