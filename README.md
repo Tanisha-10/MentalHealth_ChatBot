@@ -49,7 +49,8 @@ gradio deploy
 ```
 
 ## Screenshots
-(Include screenshots of your chatbot interface here)
+![image](https://github.com/user-attachments/assets/df1a9810-1592-4c5f-b2af-b3f73e61de77)
+
 
 ## License
 This project is licensed under the MIT License.
